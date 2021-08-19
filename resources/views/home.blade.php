@@ -23,7 +23,7 @@
                     <th>Item</th>
                     <th>Model</th>
                     <th>Description</th>
-                    <th>Quantity</th>
+                    <th>Quantity1</th>
                 </tr>
             </thead>
     
